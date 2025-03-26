@@ -19,7 +19,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'VC focusing on Food & Agriculture. Investment stages: Growth Stage.',
       website: 'https://www.pontifaxagtech.com/',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Food & Agriculture',
       investmentRange: 'Not specified'
     },
@@ -29,7 +29,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'VC focusing on Renewables & Energy Generation, Carbon Capture / CCUS, Carbon Markets & Offsets. Investment stages: Pre-Seed, Seed, Seed+, Series A. Geographic focus: DACH, Europe.',
       website: 'https://www.spicehaus.vc/',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Renewables & Energy Generation',
       investmentRange: '200k€ - 2m€'
     },
@@ -39,7 +39,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'VC focusing on Food & Agriculture. Investment stages: Pre-Seed, Seed, Series A. Geographic focus: Africa, South America, Asia.',
       website: 'https://fincaventures.com/',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Food & Agriculture',
       investmentRange: '$100K - $500K'
     },
@@ -49,7 +49,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'VC, Family Office focusing on Food Waste, Industrial Decarbonization, Water & Natural Resources, Renewables & Energy Generation. Investment stages: Pre-Seed, Seed, Series A. Geographic focus: Global.',
       website: 'http://nimb.capital',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Food Waste',
       investmentRange: 'Not specified'
     },
@@ -59,7 +59,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'VC focusing on Agnostic, Food & Agriculture, Climate Impact (Broad). Investment stages: Pre-Seed, Seed.',
       website: 'http://leanox.eu',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Agnostic',
       investmentRange: '$30k - $100k'
     },
@@ -69,7 +69,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'Accelerator, VC focusing on Climate Impact (Broad), Biotech & Life Sciences, Real Estate & Proptech, Mobility & Transportation, Food & Agriculture. Investment stages: Pre-Seed, Seed. Geographic focus: Global.',
       website: 'https://sosv.com/',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Climate Impact (Broad)',
       investmentRange: 'Up to $500K'
     },
@@ -79,7 +79,7 @@ const MarketMap = () => {
       category: 'CORPORATE VENTURE',
       description: 'CVC focusing on Carbon Capture / CCUS, Hydrogen and e-Fuels, Chemicals, Plastics & Bioplastics. Investment stages: Series A, Series B, Series C, Series D, Growth. Geographic focus: Global.',
       website: 'http://scg.com',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Carbon Capture / CCUS',
       investmentRange: 'Not specified'
     },
@@ -89,7 +89,7 @@ const MarketMap = () => {
       category: 'CORPORATE VENTURE',
       description: 'CVC focusing on Mobility & Transportation, Renewables & Energy Generation. Investment stages: Series A, Series B, Series C, Series C+. Geographic focus: Global, Expansion into Latin America.',
       website: 'https://www.windventures.vc/',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Mobility & Transportation',
       investmentRange: '$2M - $6M'
     },
@@ -99,7 +99,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'VC focusing on Climate Impact (Broad). Investment stages: Agnostic, Pre-Seed, Seed, Series A, Series B, Series C, Growth Stage, Pre-IPO. Geographic focus: North America, US.',
       website: 'https://www.impactcapitalmanagers.com/about-us-1',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Climate Impact (Broad)',
       investmentRange: 'Not specified'
     },
@@ -109,7 +109,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'VC. Investment stages: Series D, Growth Stage, Pre-IPO, Series C. Geographic focus: Global, North America.',
       website: 'https://xpvwaterpartners.com/',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Water',
       investmentRange: 'Not specified'
     },
@@ -119,7 +119,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'VC, Accelerator focusing on Renewables & Energy Generation, Waste Mgmt & Recycling, Water & Natural Resources, Biotech & Life Sciences, Climate Impact (Broad). Investment stages: accelerator, incubator, Pre-Seed, Seed. Geographic focus: Europe.',
       website: 'https://www.dartlabs.io/',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Renewables & Energy Generation',
       investmentRange: '150000 - 500000'
     },
@@ -129,7 +129,7 @@ const MarketMap = () => {
       category: 'ANGEL INVESTORS',
       description: 'Angel focusing on Climate Impact (Broad). Investment stages: Pre-seed, Seed, Series A, Series B, Series C, Later stage growth, Pre IPO. Geographic focus: Canada.',
       website: 'http://www.cleantechnorth.org',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Climate Impact (Broad)',
       investmentRange: 'Not specified'
     },
@@ -139,7 +139,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'VC focusing on Climate Impact (Broad), Real Estate & Proptech, Mobility & Transportation. Investment stages: Pre-seed, Seed, Series A. Geographic focus: Global.',
       website: 'http://lowercarboncapital.com/',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Climate Impact (Broad)',
       investmentRange: 'Not specified'
     },
@@ -149,7 +149,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'VC focusing on Climate Impact (Broad), Real Estate & Proptech, Mobility & Transportation, Circular Economy. Investment stages: Pre-seed, Seed. Geographic focus: Global with EU focus.',
       website: 'https://www.usegforce.com/',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Climate Impact (Broad)',
       investmentRange: 'Not specified'
     },
@@ -159,7 +159,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'Focusing on Renewables & Energy Generation. Investment stages: Series C, Series D, Growth, Pre-IPO, Public market investments. Geographic focus: DACH.',
       website: 'https://wiwin.de/',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Renewables & Energy Generation',
       investmentRange: 'Not specified'
     }
@@ -170,6 +170,7 @@ const MarketMap = () => {
   
   const [selectedCategory, setSelectedCategory] = useState(categories[0]);
   const [hoveredCompany, setHoveredCompany] = useState(null);
+  const [tooltipPosition, setTooltipPosition] = useState({ left: '50%', top: 'auto', bottom: '100%' });
 
   // Filter companies by selected category
   const filteredCompanies = companies.filter(company => company.category === selectedCategory);
@@ -177,6 +178,57 @@ const MarketMap = () => {
   // Handle logo click
   const handleLogoClick = (website) => {
     window.open(website, '_blank');
+  };
+
+  // Handle mouse enter with position calculation
+  const handleMouseEnter = (company, e) => {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const viewportWidth = window.innerWidth;
+    const viewportHeight = window.innerHeight;
+    
+    // Calculate if there's enough space above
+    const spaceAbove = rect.top;
+    const spaceBelow = viewportHeight - rect.bottom;
+    const spaceLeft = rect.left;
+    const spaceRight = viewportWidth - rect.right;
+    
+    let newPosition = { };
+    
+    // Decide vertical position
+    if (spaceAbove > 200) {
+      // Enough space above
+      newPosition.bottom = '100%';
+      newPosition.top = 'auto';
+      newPosition.marginBottom = '10px';
+    } else {
+      // Not enough space above, show below
+      newPosition.top = '100%';
+      newPosition.bottom = 'auto';
+      newPosition.marginTop = '10px';
+    }
+    
+    // Decide horizontal position
+    if (spaceLeft < 150 && spaceRight < 150) {
+      // Center if tight on both sides
+      newPosition.left = '50%';
+      newPosition.transform = 'translateX(-50%)';
+    } else if (spaceLeft < 150) {
+      // Not enough space on left
+      newPosition.left = '0';
+      newPosition.transform = 'translateX(0)';
+    } else if (spaceRight < 150) {
+      // Not enough space on right
+      newPosition.right = '0';
+      newPosition.left = 'auto';
+      newPosition.transform = 'translateX(0)';
+    } else {
+      // Default center
+      newPosition.left = '50%';
+      newPosition.transform = 'translateX(-50%)';
+    }
+    
+    setTooltipPosition(newPosition);
+    setHoveredCompany(company);
   };
 
   return (
@@ -207,7 +259,7 @@ const MarketMap = () => {
           <div 
             key={company.id}
             className="relative border border-gray-200 p-2 flex items-center justify-center h-20 bg-white cursor-pointer hover:shadow-md transition-shadow"
-            onMouseEnter={() => setHoveredCompany(company)}
+            onMouseEnter={(e) => handleMouseEnter(company, e)}
             onMouseLeave={() => setHoveredCompany(null)}
             onClick={() => handleLogoClick(company.website)}
           >
@@ -227,13 +279,11 @@ const MarketMap = () => {
               <div 
                 className="absolute bg-white p-3 rounded shadow-lg z-10 w-64"
                 style={{
-                  // Smart positioning logic to prevent going off-screen
-                  left: '50%',
-                  transform: 'translateX(-50%)',
-                  bottom: '100%',
-                  marginBottom: '10px',
+                  ...tooltipPosition,
                   maxHeight: '300px',
-                  overflow: 'auto'
+                  overflow: 'auto',
+                  borderWidth: '1px',
+                  borderColor: '#e2e8f0'
                 }}
               >
                 <h3 className="font-bold text-gray-800">{company.name}</h3>
