@@ -9,7 +9,7 @@ const MarketMap = () => {
       category: 'VENTURE CAPITAL',
       description: 'VC, Accelerator, Venture Builder / Venture Studio focusing on Supply Chain & Logistics, Packaging, Waste Mgmt & Recycling, Circular Economy, Recycling & Upcycling. Investment stages: Seed+. Geographic focus: Global.',
       website: 'https://spin.vc/',
-      logo: '/api/placeholder/80/40',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png',
       primaryFocus: 'Supply Chain & Logistics',
       investmentRange: '$250,000 - $1,000,000'
     },
@@ -214,7 +214,7 @@ const MarketMap = () => {
             <img 
               src={company.logo} 
               alt={company.name} 
-              className="max-h-16 max-w-full object-contain"
+              className="max-h-12 max-w-full object-contain"
             />
             
             {/* Company name below logo */}
@@ -222,9 +222,20 @@ const MarketMap = () => {
               {company.name}
             </div>
             
-            {/* Hover tooltip */}
+            {/* Hover tooltip with smart positioning */}
             {hoveredCompany && hoveredCompany.id === company.id && (
-              <div className="absolute bg-white p-3 rounded shadow-lg z-10 w-64 left-1/2 transform -translate-x-1/2 -top-2 -translate-y-full">
+              <div 
+                className="absolute bg-white p-3 rounded shadow-lg z-10 w-64"
+                style={{
+                  // Smart positioning logic to prevent going off-screen
+                  left: '50%',
+                  transform: 'translateX(-50%)',
+                  bottom: '100%',
+                  marginBottom: '10px',
+                  maxHeight: '300px',
+                  overflow: 'auto'
+                }}
+              >
                 <h3 className="font-bold text-gray-800">{company.name}</h3>
                 <div className="text-xs text-gray-500 mb-1">{company.category}</div>
                 <p className="text-sm mb-2 text-gray-700">{company.description}</p>
